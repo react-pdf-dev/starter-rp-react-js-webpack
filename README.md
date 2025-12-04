@@ -18,7 +18,7 @@ Welcome to the React PDF Starter Toolkit! This repository provides a comprehensi
 1. **Clone the Repository**: If you haven't already, clone the repository and navigate into the project directory.
 
    ```bash
-   git clone https://github.com/pdf-viewer-react/starter-rp-react-js-webpack.git
+   git clone https://github.com/react-pdf-dev/starter-rp-react-js-webpack.git
    cd starter-rp-react-js-webpack
    ```
 
