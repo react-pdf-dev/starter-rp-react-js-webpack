@@ -1,6 +1,6 @@
 # React PDF Starter Toolkit in React.js, JavaScript and Webpack
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github.com/pdf-viewer-react/starter-rp-react-js-webpack)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github.com/react-pdf-dev/starter-rp-react-js-webpack)
 
 Welcome to the React PDF Starter Toolkit! This repository provides a comprehensive guide on integrating React PDF with React, JavaScript and Webpack. It showcases how React PDF can be integrated and rendered as part of a React.js project.
 
